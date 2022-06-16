@@ -10,10 +10,10 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">I started creating bugs in 2022</p>
+<li align="left">I started creating bugs in 2022</li>
 
 ###
-<p align="left">I like cycling 🚵, video games 🎮 and watching movies 🎥.</p>
+<li align="left">I like cycling 🚵, video games 🎮 and watching movies 🎥.</li>
 
 ###
 <h2 align="left">My system</h2>
