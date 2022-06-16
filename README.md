@@ -1,4 +1,7 @@
-<h2 align="left">Hi :wave: What`s  up?</h2>
+<h2 align="left">Hi 👋 What`s  up?</h2>
+
+###
+<img align="right" height="200" src="https://i.gifer.com/1UEW.gif"  />
 
 ###
 <p align="left">My name is Túlio and i`m a javascript developer 🚀, from Pernambuco, 🇧🇷 Brazil.</p>
@@ -7,10 +10,10 @@
 <h2 align="left">About me</h2>
 
 ###
-<li align="left">I started creating bugs in 2022</li>
+<p align="left">I started creating bugs in 2022</p>
 
 ###
-<li align="left">I like cycling 🚵, video games 🎮 and watching movies 🎥.</li>
+<p align="left">I like cycling 🚵, video games 🎮 and watching movies 🎥.</p>
 
 ###
 <h2 align="left">My system</h2>
