@@ -57,6 +57,3 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/tuliorsc10/tuliorsc10/blob/output/snake.svg" alt="Snake animation" />
-
-###
