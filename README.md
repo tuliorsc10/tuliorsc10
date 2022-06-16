@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 What`s  up?</h2>
 
 ###
-<img align="right" height="200" src="https://i.gifer.com/1UEW.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/eIjm3vLX9dHdC/giphy.gif"  />
 
 ###
 <p align="left">My name is Túlio and i`m a javascript developer 🚀, from Pernambuco, 🇧🇷 Brazil.</p>
