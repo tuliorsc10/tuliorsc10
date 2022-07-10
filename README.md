@@ -60,3 +60,7 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://www.codewars.com/users/tuliorsc10/badges/large"
+</div>
+###
