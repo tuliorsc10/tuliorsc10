@@ -60,7 +60,10 @@
 </div>
 
 ###
+<h2 align="left">My Codewars</h2>
+
+###
 <div align="center">
   <img src="https://www.codewars.com/users/tuliorsc10/badges/large"
 </div>
-###
+
