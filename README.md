@@ -4,7 +4,7 @@
 <img align="right" height="200" src="https://media.giphy.com/media/eIjm3vLX9dHdC/giphy.gif"  />
 
 ###
-<p align="left">My name is Túlio and i`m a javascript developer 🚀, from Pernambuco, 🇧🇷 Brazil.</p>
+<p align="left">My name is Túlio and i`m a software developer 🚀, from Pernambuco, 🇧🇷 Brazil.</p>
 
 ###
 <h2 align="left">About me</h2>
