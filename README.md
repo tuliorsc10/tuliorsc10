@@ -15,13 +15,6 @@
 ###
 <li align="left">I like cycling 🚵, video games 🎮 and watching movies 🎥.</li>
 
-###
-<h2 align="left">My system</h2>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" width="52" alt="redhat logo"  />
-</div>
 
 ###
 <h2 align="left">I know a little about</h2>
